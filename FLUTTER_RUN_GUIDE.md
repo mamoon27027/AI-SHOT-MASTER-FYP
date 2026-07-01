@@ -10,7 +10,7 @@ This folder is a **complete test app** (steps 7–10 done for you).
 4. **Test screen**: choose **Any shot** or **Practice one** (dropdown), **Start coaching**, play a swing, read **accuracy %**.
 
 ## Run on your phone
-
+## Use Real devie
 ```bash
 cd mobile_application_pipeline/ea_master_demo
 flutter pub get
