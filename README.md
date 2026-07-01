@@ -1,4 +1,4 @@
-# ea_master_demo
+# AI_Shot_Master_demo
 
 A new Flutter project.
 
